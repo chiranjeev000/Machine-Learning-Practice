@@ -1,2 +1,2 @@
-# Python_Practice
-My python files while learning python
+# Machine Learning Pracice
+Files that i use while studying machine learning
